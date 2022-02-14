@@ -7,7 +7,7 @@
     <div class="col-8">
       <div class="restbeef_block">
         <h2 class="restbeef_block_title align_center">
-          <span class="restbeef_up_title">Traditional</span>
+          <span class="restbeef_up_title">Tradicional</span>
           Steaks Menu
         </h2>
         <div class="row">

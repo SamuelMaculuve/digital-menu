@@ -22,10 +22,10 @@
                       <div class="restbeef_poduct_summary_content align_center">
                         <h2>
                           <span class="restbeef_up_title">Summary</span>
-                          Order Info
+                          Informações do pedido
                         </h2>
                         <div class="restbeef_poduct_description">
-                          <h6>Weight and calories</h6>
+                          <h6> Arroz de Camarão/Shrimps Rice</h6>
                           <p>
                             <span>200/50/50g</span><span>680 Cal</span>
                           </p>
@@ -50,7 +50,7 @@
               <div class="restbeef_block restbeef_js_margin" data-margin="0 0 90px 0">
                 <h2 class="align_center">
                   <span class="restbeef_up_title">More Info</span>
-                  Description
+                  Informações do pedido
                 </h2>
                 <div class="restbeef_block_inner">
                   <p>If you like really hot steaks - this is your choice. Served with greenery and cherry tomatoes. VERY STRONG! Pellentesque tincidunt aliquam tempor. Phasellus at odio eu nunc faucibus mattis. Sed blandit auctor auctor. Quisque luctus consequat ultricies. Etiam eget elit eget erat luctus hendrerit eu vel magna. Fusce ac maximus arcu. Suspendisse dignissim nunc non imperdiet rhoncus. Aliquam viverra velit ante, ac egestas ipsum accumsan vel. Maecenas quis mi lacinia, efficitur nibh eget, imperdiet elit. Praesent semper nisi mi, a pharetra nunc malesuada quis. Nam placerat a magna porta pulvinar.</p>
@@ -62,7 +62,7 @@
               <div class="restbeef_block restbeef_js_margin" data-margin="0 0 100px 0">
                 <h2 class="align_center restbeef_js_padding" data-padding="0 0 35px 0">
                   <span class="restbeef_up_title">How It Looks</span>
-                  Product Gallery
+                  Galeria de produtos
                 </h2>
                 <div class="restbeef_block_inner">
                   <div class="restbeef_grig_gallery_wrapper restbeef_grig_3columns restbeef_photoswipe_wrapper" data-uniqid="1738">

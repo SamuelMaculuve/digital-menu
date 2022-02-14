@@ -25,15 +25,12 @@
 </template>
 
 <script>
-
-import HelloWorld from '@/components/HelloWorld.vue'
 import SteaksMenuBlock from '@/components/Home/SteaksMenuBlock.vue'
 import GrillMenuBlock from '@/components/Home/GrillMenuBlock.vue'
 import SaladsMenuBlock from '@/components/Home/SaladsMenuBlock.vue'
 export default {
   name: 'Home',
   components: {
-    HelloWorld,
     SteaksMenuBlock,
     GrillMenuBlock,
     SaladsMenuBlock
